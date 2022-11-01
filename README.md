@@ -5,3 +5,5 @@ Have a look at [Git](https://git-scm.com/) and [GitHub](https://github.com/).
 
 Here's my first feature
 defines: read_history() with bugfix
+
+Some code that calls read_history()
